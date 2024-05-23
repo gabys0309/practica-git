@@ -1,0 +1,5 @@
+Nombre : Gabriela
+Edad : 20 años
+Carrera universitaria: Desarrollo de Software Plataforma
+Hobbie : Leer
+Materia : Desarrollo web integral
