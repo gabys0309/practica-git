@@ -3,3 +3,6 @@ Edad : 20 años
 Carrera universitaria: Desarrollo de Software Plataforma
 Hobbie : Leer
 Materia : Desarrollo web integral
+Lugar: San Juan del Rio
+Fecha : 23 de mayo del 2024
+Día del estudiante
