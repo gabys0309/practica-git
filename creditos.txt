@@ -1,0 +1,4 @@
+Nombre: Gabriela Soto Zepeda
+Grupo : DS02SV-23
+Edad : 20 años
+Carrera : Desarrollo de Software
